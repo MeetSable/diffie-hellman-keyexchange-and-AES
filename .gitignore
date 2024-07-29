@@ -1,0 +1,14 @@
+
+# ignore all out files
+**/*.out
+**/*.o
+
+# ignore pem files
+**/*.pem
+
+# ignore encrypted files
+**/*.en
+
+**/*.bin
+
+.vscode
